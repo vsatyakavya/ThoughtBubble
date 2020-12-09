@@ -40,7 +40,7 @@
 
 
 # Github repository
- https://secret-reaches-35397.herokuapp.com/
+ https://github.com/vsatyakavya/ThoughtBubble
 
 
 
