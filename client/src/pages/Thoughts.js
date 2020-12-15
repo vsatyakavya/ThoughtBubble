@@ -66,7 +66,7 @@ function loadBubbles() {
                                 𝘅
                             </span>
                            
-                            <span class="shadow__box" id="drop-shadow" classname ="date" style={{fontSize : 10}}>{formatDate(book.date)}</span>
+                            <span class="shadow__box" id="drop-shadow" classname ="date" >{formatDate(book.date)}</span>
 
                             
                         </Card>
