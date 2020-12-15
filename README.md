@@ -4,7 +4,7 @@
 # ThoughtBubble
 
 # Application Does:
-* This is a full-stack Journal application developed using the MERN tech stack. User can save ativities and pictures in to there own account from local computer.
+* This is a full-stack Journal application developed using the MERN tech stack. User can save ativities and pictures in to there own account.
 
 # Technologies used:
 * MERN(MongoDB, Express js, React, Node js)
