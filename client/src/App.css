@@ -200,6 +200,7 @@
   }
 
   .loginCard { 
+    /* margin: 50px 100px 0px 100px; */
     display: flex;
     flex-direction: row;
     padding: 15px;
